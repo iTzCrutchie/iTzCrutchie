@@ -1,6 +1,6 @@
 # Hi there 👋
 
-If you cant already tell i go by Crutchie.
+If you cant already tell I go by Crutchie.
 
 ## Mostly used tools and programing languages
 
