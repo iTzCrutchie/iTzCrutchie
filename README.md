@@ -1,13 +1,13 @@
-### Hi there 👋
+# Hi there 👋
 
 If you cant already tell i go by Crutchie.
 
 ## Mostly used tools and programing languages
 
-# Tools
+### Tools
 * Microsoft Visual Studio Code
 
-# Languages
+### Languages
 * C++
 * C#
 * Lua
