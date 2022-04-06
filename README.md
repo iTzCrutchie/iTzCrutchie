@@ -16,7 +16,7 @@ If you cant already tell I go by Crutchie.
 * HTML5 & CSS3
 
 ## Contact Me
-**Email**: contact@crutchie.com
+**Email**: github@crutchie.com
 **Discord**: crutchie#0117
 
 I usually have my dms closed but you can find me on quite a few of the FiveM discords. Or if you shoot me a discord friend request I might accept it temporarily.
