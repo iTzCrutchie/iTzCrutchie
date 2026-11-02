@@ -22,6 +22,9 @@ If you cant already tell I go by Crutchie.
 I usually have my dms closed but you can find me on quite a few of the FiveM discords. Or if you shoot me a discord friend request I might accept it temporarily.
 
 ## My Github Stats
+
+[![Crutchie's GitHub stats](https://github-readme-stats.vercel.app/api?username=iTzCrutchie)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Crutchie's github stats](https://github-readme-stats.vercel.app/api?username=iTzCrutchie&show_icons=true&theme=dark)
 ![[Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iTzCrutchie&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
